@@ -1,0 +1,17 @@
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.csproj.AssemblyReference.cache
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.AssemblyInfoInputs.cache
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.AssemblyInfo.cs
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.csproj.CoreCompileInputs.cache
+C:\git\Dotnet\HeroesCreator\bin\Debug\net6.0\HeroesCreator.exe
+C:\git\Dotnet\HeroesCreator\bin\Debug\net6.0\HeroesCreator.deps.json
+C:\git\Dotnet\HeroesCreator\bin\Debug\net6.0\HeroesCreator.runtimeconfig.json
+C:\git\Dotnet\HeroesCreator\bin\Debug\net6.0\HeroesCreator.dll
+C:\git\Dotnet\HeroesCreator\bin\Debug\net6.0\HeroesCreator.pdb
+C:\git\Dotnet\HeroesCreator\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.csproj.CopyComplete
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.dll
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\refint\HeroesCreator.dll
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.pdb
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\HeroesCreator.genruntimeconfig.cache
+C:\git\Dotnet\HeroesCreator\obj\Debug\net6.0\ref\HeroesCreator.dll
